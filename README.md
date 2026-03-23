@@ -1,4 +1,4 @@
-<h2 align="center">Olá, seja bem-vindo(a)! Fique à vontade para explorar meus projetos 🤎</h2>
+<h2 align="center">Hello, welcome! Feel free to explore my projects 🤎</h2>
 
 ###
 
